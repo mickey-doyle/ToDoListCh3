@@ -1,8 +1,8 @@
 ### Windows Form App To-Do List
 - Dotnet 8.0
 - I had to make this on a VM on my Macbook because my PC's GPU is failing. I used Visual Studio 2022 with ReSharper.
-- I built a standalone executable of the form app if running from source proves troublesome - see (Releases)[https://github.com/mickey-doyle/ToDoListCh3/releases/tag/binary]
-- Snake case is simply better 
+- I built a standalone executable of the app in the case that running from source proves troublesome - see [Releases](https://github.com/mickey-doyle/ToDoListCh3/releases/tag/binary).
+- Snake case is simply better.
  
 ### Form1.cs
 
