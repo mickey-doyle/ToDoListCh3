@@ -1,8 +1,8 @@
 ### Windows Form App To-Do List
-- This uses dotnet 8.0 core
-- Couldn't get VS2019 to work on my Windows VM so this was tested w/ VS2022 (with ReSharper)
-- Snake case > camel case
-- I included a standalone binary (ToDoList.exe in base directory) in case any issues come up running from source
+- Dotnet 8.0
+- I had to make this on a VM on my Macbook because my PC's GPU is failing. I used Visual Studio 2022 with ReSharper.
+- I built a standalone executable of the form app if running from source proves troublesome - see (Releases)[https://github.com/mickey-doyle/ToDoListCh3/releases/tag/binary]
+- Snake case is simply better 
  
 ### Form1.cs
 
