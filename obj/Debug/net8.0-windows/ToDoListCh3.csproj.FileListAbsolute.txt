@@ -1,0 +1,16 @@
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\bin\Debug\net8.0-windows\ToDoListCh3.exe
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\bin\Debug\net8.0-windows\ToDoListCh3.deps.json
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\bin\Debug\net8.0-windows\ToDoListCh3.runtimeconfig.json
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\bin\Debug\net8.0-windows\ToDoListCh3.dll
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\bin\Debug\net8.0-windows\ToDoListCh3.pdb
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\obj\Debug\net8.0-windows\ToDoListCh3.csproj.GenerateResource.cache
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\obj\Debug\net8.0-windows\ToDoListCh3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\obj\Debug\net8.0-windows\ToDoListCh3.AssemblyInfoInputs.cache
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\obj\Debug\net8.0-windows\ToDoListCh3.AssemblyInfo.cs
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\obj\Debug\net8.0-windows\ToDoListCh3.csproj.CoreCompileInputs.cache
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\obj\Debug\net8.0-windows\ToDoListCh3.dll
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\obj\Debug\net8.0-windows\refint\ToDoListCh3.dll
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\obj\Debug\net8.0-windows\ToDoListCh3.pdb
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\obj\Debug\net8.0-windows\ToDoListCh3.genruntimeconfig.cache
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\obj\Debug\net8.0-windows\ref\ToDoListCh3.dll
+C:\Users\mick\source\repos\ToDoListCh3\ToDoListCh3\obj\Debug\net8.0-windows\ToDoApp.main_form.resources
