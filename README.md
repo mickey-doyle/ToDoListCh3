@@ -1,3 +1,11 @@
+### Windows Form App To-Do List
+- This uses dotnet 8.0 core
+- Couldn't get VS2019 to work on my Windows VM so this was tested w/ VS2022 (with ReSharper)
+- Snake case > camel case
+- I included a binary in case any issues come up running from source
+ 
+### Form1.cs
+
 ```csharp
 namespace ToDoApp
 {

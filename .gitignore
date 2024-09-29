@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.suo
+*.user
+*.log
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+
+# NuGet Packages
+packages/
+
+# ReSharper
+.idea/
+*.DotSettings
+
+# Rider
+.idea/
+
